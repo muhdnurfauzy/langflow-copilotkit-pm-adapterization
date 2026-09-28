@@ -1,0 +1,16 @@
+# Secrets & Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+
+# Dependencies & Build Outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
